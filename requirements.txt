@@ -1,0 +1,4 @@
+minecraft-launcher-lib
+psutil
+requests
+keyboard
