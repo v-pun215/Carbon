@@ -10,7 +10,7 @@ A lightweight and portable CLI-based Minecraft launcherr, written in Python.
 1. Download the latest release and extract it wherever you desire.
 2. Open up the terminal in that folder and run
 ``pip install -r requirements.txt``.
-3. You can now use ``python main.py`` it in the terminal or just run it normally.
+3. You can now use ``python main.py`` in the terminal or just run it normally.
 
 # Features in WIP
 1. GUI
