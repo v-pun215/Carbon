@@ -3,7 +3,7 @@ A lightweight and portable CLI-based Minecraft launcherr, written in Python.
 
 # Requirements
 1. Java 21: install from [here](https://download.bell-sw.com/java/21.0.5+11/bellsoft-jdk21.0.5+11-windows-amd64.msi) (requires admin rights)
-2. Python 3.10+: install from [here](https://www.python.org/downloads/)
+2. Python 3.10+: install from [here](https://www.python.org/downloads/) (requires admin rights)
 3. Currently, Windows 10+
 
 # Quickstart
