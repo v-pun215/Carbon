@@ -1,7 +1,7 @@
 # Carbon
 ![image](https://github.com/user-attachments/assets/a28b573d-13ad-428b-bcfd-9e38ef6d8a02)
 
-A lightweight and portable CLI-based Minecraft launcherr, written in Python.
+A lightweight and portable CLI-based Minecraft launcher, written in Python.
 
 # Requirements
 1. Java 21: install from [here](https://download.bell-sw.com/java/21.0.5+11/bellsoft-jdk21.0.5+11-windows-amd64.msi) (requires admin rights)
